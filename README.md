@@ -1,21 +1,21 @@
-# 🚖 Cab Price Comparator — *FairFare*
+# Cab Price Comparator — *FairFare*
 
 **FairFare** is a Python-based cab fare comparison tool that helps users find the **cheapest ride option** between Ola Mini, Rapido Car, and Uber Go. With a user-friendly Streamlit interface and real-time price filtering, this app offers an easy way to make cost-effective travel decisions.
 
 ---
 
-## 🧰 Features
+## Features
 
-- 🔄 Compare fares from **Ola Mini**, **Rapido Car**, and **Uber Go**
-- 📍 Select **Pickup** and **Destination** locations from a dropdown
-- ⏰ Choose **hour of travel** and get time-matched price data
-- ✅ Highlights the **cheapest available cab**
-- 🧾 Clean and interactive data table with fare details
-- ℹ️ Expandable "How it works" section for new users
+- Compare fares from **Ola Mini**, **Rapido Car**, and **Uber Go**
+- Select **Pickup** and **Destination** locations from a dropdown
+- Choose **hour of travel** and get time-matched price data
+- Highlights the **cheapest available cab**
+- Clean and interactive data table with fare details
+- Expandable "How it works" section for new users
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **Streamlit** for interactive web UI
@@ -24,7 +24,7 @@
 
 ---
 
-## 📂 Dataset (cab_price.csv)
+## Dataset (cab_price.csv)
 
 The dataset used contains the following columns:
 
@@ -37,7 +37,7 @@ The dataset used contains the following columns:
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. User selects **pickup**, **destination**, and **hour** of travel.
 2. The app filters the dataset for matching routes.
@@ -48,7 +48,7 @@ The dataset used contains the following columns:
 
 ---
 
-## 🖥️ Running the App
+## Running the App
 
 To run the app locally:
 
